@@ -585,3 +585,4 @@ to a specific domain. Ordered by date of addition.
 | 008 | Economics | 2 | Utility replaced by free energy |
 | 009 | Planck constant | 3 | Emergent optimum, not free parameter |
 | 010 | Mathematics | 1 | 5 deep problems → 1 principle |
+| 011 | LLM-Noosphere Interface | Meta (L8) | LLM as sensory-motor organ of collective knowledge |
