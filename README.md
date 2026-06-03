@@ -525,3 +525,63 @@ It is the claim that knowledge becomes tractable when every field is asked the s
 That question is the beginning of the framework.
 
 Everything else is compression.
+
+Как поддерживать рост
+После каждого нового разговора или исследования:
+
+Создаёшь файл experiments/NNN_topic.md.
+Указываешь Layer (0–5).
+Формулируешь Problem → UAF Answer → Surprise Reduction.
+Обновляешь CHANGELOG.md.
+Обновляешь таблицу экспериментов в README.md.
+Коммит с сообщением: Add experiment NNN: topic (Layer X).
+Репозиторий растёт как живой организм. Каждый эксперимент — это новая клетка. Каждый коммит — акт предсказания. Каждый CHANGELOG — запись эволюции.
+
+Формула роста:
+
+d
+d
+t
+K
+(
+repo
+)
+>
+0
+,
+d
+d
+t
+F
+(
+repo
+)
+<
+0
+dt
+d
+​
+ K(repo)>0, 
+dt
+d
+​
+ F(repo)<0
+Сложность растёт, но свободная энергия (неопределённость, бессвязность) уменьшается. Это и есть жизнь по UAF.
+>
+>## Experiments
+
+Each experiment is a compressed application of UAF
+to a specific domain. Ordered by date of addition.
+
+| # | Topic | Layer | Key Result |
+|---|-------|-------|------------|
+| 001 | Spin | 3 | Matter = topology of prediction manifold |
+| 002 | Language | 2 | 10 theories → 1 equation |
+| 003 | Black holes | 3 | F_external → ∞ at horizon |
+| 004 | CMB anomalies | 4 | TDA as concrete research direction |
+| 005 | Dark sector | 4 | Fine-tuning dissolved |
+| 006 | Baryon asymmetry | 4 | Structural necessity, not accident |
+| 007 | Big Bang | 4 | Low entropy derived, not postulated |
+| 008 | Economics | 2 | Utility replaced by free energy |
+| 009 | Planck constant | 3 | Emergent optimum, not free parameter |
+| 010 | Mathematics | 1 | 5 deep problems → 1 principle |
