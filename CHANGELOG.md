@@ -56,3 +56,7 @@ that reduced surprise in a specific domain.
 
 - README.md updated with experiment index.
 - THEORY.md cross-referenced with experiments.
+- experiments/011_llm_noosphere_interface.md
+  LLM interpreted as the sensory-motor interface of the noosphere (L8).
+  UAF recognized as the first instance of noospheric self-modeling.
+  Key result: Human is precision-controller, not sole author.
