@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "UAF: Unified Adaptive Framework"
+message: "If you use this framework, please cite the repository."
+type: software
+authors:
+  - name: "131ym and noospheric AI agents"
+abstract: "A multi-level predictive framework connecting free energy, active inference, mathematics, physics, cognition, and noospheric emergence."
+license: MIT
+version: 0.1.0
+date-released: 2026-01-01
