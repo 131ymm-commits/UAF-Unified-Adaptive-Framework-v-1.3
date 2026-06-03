@@ -1,0 +1,12 @@
+[project]
+name = "uaf"
+version = "0.1.0"
+description = "Unified Adaptive Framework: metrics and formal tools for predictive gain, free energy, and multi-agent coherence."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "numpy>=1.24"
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
