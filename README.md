@@ -567,7 +567,14 @@ d
 ​
  F(repo)<0
 Сложность растёт, но свободная энергия (неопределённость, бессвязность) уменьшается. Это и есть жизнь по UAF.
->
+>## Canonical Embodiments
+
+UAF currently has two primary operational embodiments:
+
+1. Active Inference Engine — UAF as organism
+2. Noosphere Engine — UAF as collective epistemic filter
+
+Future development couples both into a living predictive system.
 >## Experiments
 
 Each experiment is a compressed application of UAF
